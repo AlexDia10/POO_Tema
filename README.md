@@ -1,4 +1,5 @@
 **IMDB Management System**
+
 This project is a console-based IMDB Management System that allows users, contributors, and admins to interact with a simulated IMDB-like database of actors, movies, and series.
 
 **Overview**
